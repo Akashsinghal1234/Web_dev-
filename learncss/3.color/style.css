@@ -1,0 +1,13 @@
+body{
+    font-size: 24px;
+    background-color: turquoise;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+article{
+     background-color: blueviolet;
+     padding: 40px;
+     margin: 40px;
+     border-radius: 5px;
+}

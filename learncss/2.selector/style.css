@@ -1,0 +1,31 @@
+ /* * {
+    font-family: fantasy;
+}
+ */
+
+
+body {
+    font-size: 25px;
+}
+
+p:hover{
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* #first>p{
+    color: blue;
+} */
+
+#first , #second {
+    color: aquamarine;
+}
+
+
+.purple{
+    color: black !important;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.highlight{
+    background-color: burlywood;
+}

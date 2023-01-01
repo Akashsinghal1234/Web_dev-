@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+
+.box{
+    border: 20px solid rebeccapurple ;
+    padding: 25px 20px 15px 10px;
+    margin: 30px;
+    width: 200px;
+    height: 200px;
+}
